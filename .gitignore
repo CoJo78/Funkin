@@ -1,3 +1,6 @@
 export/
 .vscode/
 APIStuff.hx
+ProjectSettings.json
+slnx.sqlite
+slnx.sqlite-journal
